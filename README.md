@@ -1,16 +1,39 @@
-# super_store
+# Super Store - Flutter E-Commerce App
 
-A new Flutter project for Super Store
+Flutter E-Commerce App Fresh Material UI Fully function. Provider package used for manage the State of Store and App.
 
-## Getting Started
+## 🚀 Installation or Run server
 
-This project is a starting point for a Flutter application.
+Install, run the development server:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+1. git clone https://github.com/kingarthurwashere/super_store_ecommerce_flutter.git
+```
+```bash
+2. flutter pub get
+```
+```bash
+3. flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Screenshots
+
+
+| Splash                            | Log In                           | Sign Up                             | Home                          |
+| --------------------------------- | -------------------------------- | ----------------------------------- | ----------------------------- |
+| ![Splash](/screenshot/splash.jpg) | ![Log In](/screenshot/login.jpg) | ![Sign Up](/screenshot/sign-up.jpg) | ![Home](/screenshot/home.jpg) |
+
+| Drawer                            | View Image                                | Added To Cart                                   | Cart                          |
+| --------------------------------- | ----------------------------------------- | ----------------------------------------------- | ----------------------------- |
+| ![Drawer](/screenshot/drawer.jpg) | ![View Image](/screenshot/view-image.jpg) | ![Added to cart](/screenshot/added-to-cart.jpg) | ![Cart](/screenshot/cart.jpg) |
+<!--![App Screenshot](/screenshot/Screenshot_1.png)-->
+
+
+## 🔑 License
+
+[MIT](/LICENCE)
+
+## 👤 Authors
+
+- [@om-chauhan](https://github.com/om-chauhan)
