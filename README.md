@@ -36,4 +36,4 @@ Install, run the development server:
 
 ## 👤 Authors
 
-- [@om-chauhan](https://github.com/om-chauhan)
+- [@King Arthur](https://github.com/kingarthurwashere)
